@@ -33,17 +33,13 @@ SnapBill AI is an AI-powered system designed to streamline the billing process f
     - Set up your database (MySQL/PostgreSQL).
     - Update the database configuration in the settings file.
 
-4. **Run Migrations**:
-    ```bash
-    python manage.py migrate
-    ```
 
-5. **Start the Server**:
+4. **Start the Server**:
     ```bash
     python manage.py runserver
     ```
 
-6. **Access the Web Interface**:
+5. **Access the Web Interface**:
     - Open your web browser and go to `http://127.0.0.1:8000`
 
 ## Usage
@@ -56,9 +52,6 @@ SnapBill AI is an AI-powered system designed to streamline the billing process f
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
