@@ -1,0 +1,7 @@
+Flask
+torch
+Pillow
+numpy
+werkzeug
+
+pip freeze > requirements.txt
