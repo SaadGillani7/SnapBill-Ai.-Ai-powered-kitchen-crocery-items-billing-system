@@ -58,5 +58,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 - [YOLOv5](https://github.com/ultralytics/yolov5) by Ultralytics.
 - [Flask](https://flask.palletsprojects.com/) for web framework.
 
+## Dataset 
+
+- [Dataset](https://www.kaggle.com/datasets/mohammadumar949/kitchen-crocery-items-dataset) 
 ---
 
